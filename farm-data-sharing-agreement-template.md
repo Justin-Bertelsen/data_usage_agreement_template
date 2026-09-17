@@ -10,7 +10,7 @@ A few terms come up repeatedly below, so it's worth pinning down what each one m
 
 **Raw data** means the data exactly as collected from your farm — a yield map straight off the combine's monitor, a soil test result, a weather station log, an individual animal's weigh-in or treatment record — before we've done anything to it.
 
-**De-identified data** means raw data with anything that could point back to you or your farm removed or generalized: no name, no address, field boundaries rounded to the nearest quarter-mile or dropped entirely, no data field with fewer than five other farms behind it.
+**De-identified data** means raw data with anything that could point back to you or your farm removed or generalized: no name, no address, field boundaries rounded to the nearest quarter-mile or dropped entirely, no data fields with fewer than five other farms behind it.
 
 **Aggregate data** means numbers combined across multiple farms — an average, a total, a trend line — where no single farm's figures can be pulled back out.
 
@@ -65,7 +65,20 @@ Anything not checked isn't being collected. Data outside the specified time peri
 
 ## Whose data this is
 
-Raw data is yours, full stop — this agreement doesn't transfer ownership. What you're granting us is a limited, non-exclusive license to use it for the project above, for the duration stated, and no longer. Aggregate and derived research outputs may be shared publicly under the terms in the FAIR section below, but the raw data behind them remains yours and is never itself published or handed to a third party. We will not sell, license, or otherwise transfer your raw or de-identified data to any third party — including other researchers not named in this agreement, agribusinesses, insurers, or lenders — without your separate written consent identifying the specific recipient and purpose.
+Raw data is yours, full stop — this agreement doesn't transfer ownership. What you're granting us is a limited, non-exclusive license to use it for the project above, for the duration stated, and no longer. Aggregate and derived research outputs may be shared publicly under the terms in the FAIR section below, but the raw data behind them remains yours and is never itself published or handed to a third party. We will not sell, license, or otherwise transfer your raw or de-identified data to any third party — including other researchers not named in this agreement, businesses, insurers, or lenders — without your separate written consent identifying the specific recipient and purpose.
+
+## Licensing of published outputs
+
+Except for your raw data, which remains yours and is not transferred, you grant us a limited, non-exclusive, revocable license to use, analyze, and process your data solely for the project described above. We may also publish de-identified, aggregate, and derived materials, including datasets, charts, analytical code, manuscripts, and other research outputs, subject to the limitations in this agreement and any restrictions you specify below.
+
+Published datasets and other research outputs will be licensed under the following terms unless otherwise agreed in writing:
+
+☐ Creative Commons Attribution (CC BY 4.0)
+☐ Creative Commons Attribution-NonCommercial (CC BY-NC 4.0)
+☐ Creative Commons Zero (CC0)
+☐ Other license or terms: ______________________________
+
+This license applies only to de-identified, aggregate, and derived materials that do not identify you, your farm, or your operation. It does not license or authorize publication of your raw data, identifiable data, or any confidential information. We will not assign or sell your raw or identifiable data to a third party for unrelated uses without your separate written consent. If we publish a dataset based on your information, we will include metadata describing the data collected, dates, methods, and any processing steps, and we will avoid any publication format that could reasonably identify you or your farm.
 
 ## Keeping things private
 
@@ -103,7 +116,7 @@ You may withdraw by written notice (email is sufficient) at any time. Within 15 
 
 This covers the published, de-identified findings and aggregate datasets — not your raw farm data, which stays private under the terms above.
 
-Published datasets and findings will be assigned a persistent identifier (a DOI, issued through [e.g., an institutional repository, Zenodo, or the USDA Ag Data Commons]) and deposited with metadata sufficient to understand what was collected, when, and how — enough that another researcher could locate and evaluate the work without needing to contact us directly. Where the underlying de-identified data can't be made fully public, a metadata record describing its existence and a request process will still be public. Data will be stored and shared in open, non-proprietary formats — CSV or GeoJSON for tabular and spatial data, NetCDF for time-series or sensor data — rather than formats that require specific paid software to open. Where applicable, we'll use existing agricultural data standards for describing units, equipment, and operations — the ADAPT framework or ISO 11783/ISOBUS conventions for cropland and equipment data, and ICAR (International Committee for Animal Recording) standards or USDA APHIS traceability identifiers for livestock data — so results are comparable to other agricultural research rather than locked into a one-off format. Every dataset we publish will include documentation of collection dates, instruments or methods used, and any cleaning or processing steps applied, along with a stated license (such as Creative Commons Attribution) describing how others may reuse it.
+Published datasets and findings will be assigned a persistent identifier (a DOI, issued through [e.g., an institutional repository, Zenodo, or the USDA Ag Data Commons]) and deposited with metadata sufficient to understand what was collected, when, and how — enough that another researcher could locate and evaluate the work without needing to contact us directly. Where the underlying de-identified data can't be made fully public, a metadata record describing its existence and a request process will still be public. Data will be stored and shared in open, non-proprietary formats — CSV or GeoJSON for tabular and spatial data, NetCDF for time-series or sensor data — rather than formats that require specific paid software to open. Where applicable, we'll use existing agricultural data standards for describing units, equipment, and operations — the ADAPT framework or ISO 11783/ISOBUS conventions for crop and equipment data, and ICAR (International Committee for Animal Recording) standards or USDA APHIS traceability identifiers for livestock data — so results are comparable to other agricultural research rather than locked into a one-off format. Every dataset we publish will include documentation of collection dates, instruments or methods used, and any cleaning or processing steps applied, along with a stated license (such as Creative Commons Attribution) describing how others may reuse it.
 
 None of this applies to your raw, identifiable data, which is never deposited, published, or made independently findable — only the aggregate results are.
 
@@ -111,7 +124,7 @@ None of this applies to your raw, identifiable data, which is never deposited, p
 
 We are not responsible for inaccuracies in the data you provide, and will use it as given, in good faith. We are responsible for our own errors or negligence in collecting, storing, or handling your data, and our liability for any such error is limited to direct damages, capped at [e.g., the total amount paid to you under this agreement, or a stated dollar figure]. Neither party is liable for indirect, incidental, or consequential damages.
 
-This agreement is governed by the laws of the State of ______________. Disputes will first go through 30 days of good-faith negotiation between the parties; if unresolved, they will proceed to ☐ mediation in ______________ ☐ binding arbitration under [e.g., AAA rules] ☐ the courts of ______________.
+This agreement is governed by the laws of the State of ______________. Disputes will first go through 30 days of good-faith negotiation between the parties; if unresolved, they will proceed to ☐ mediation in [location] ☐ binding arbitration under [e.g., AAA rules] in the courts of [location].
 
 ## Signatures
 
