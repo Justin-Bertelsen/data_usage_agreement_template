@@ -108,7 +108,7 @@ We'll share a copy of any manuscript or report referencing your farm's data at l
 ☐ Ongoing payment of $______ per [season/year], paid by [method]
 ☐ Something in-kind: ______________________________, provided by [date]
 
-## Walking away
+## Terminating the agreement
 
 You may withdraw by written notice (email is sufficient) at any time. Within 15 business days of receiving your notice, we will stop collecting any new data from you, and will either delete your raw and de-identified data outright, or — if it has already been incorporated into a published aggregate result that cannot practically be recalculated — retain only that anonymous aggregate form. We'll tell you in writing which applies to your data specifically. Either party may terminate this agreement for material breach (a specific, identified failure to meet a term above) with 30 days' written notice and an opportunity to cure.
 
@@ -120,7 +120,7 @@ Published datasets and findings will be assigned a persistent identifier (a DOI,
 
 None of this applies to your raw, identifiable data, which is never deposited, published, or made independently findable — only the aggregate results are.
 
-## The rest of the fine print
+## Final thoughts
 
 We are not responsible for inaccuracies in the data you provide, and will use it as given, in good faith. We are responsible for our own errors or negligence in collecting, storing, or handling your data, and our liability for any such error is limited to direct damages, capped at [e.g., the total amount paid to you under this agreement, or a stated dollar figure]. Neither party is liable for indirect, incidental, or consequential damages.
 
@@ -138,4 +138,4 @@ Name: ______________________ Signature: ______________________ Date: __________
 
 **Quick reference:** what's collected and why — sections 2–3. You own the raw data regardless of anything else in this agreement. You can withdraw with written notice and a 15-business-day wind-down. Your identity and field locations stay protected unless you've opted into attribution above. Questions or want out? Contact: ______________________
 
-*Template v4 — last updated 2026-09-08*
+*Template v4 — last updated 2026-09-17*
